@@ -1,6 +1,7 @@
 谨以此献给我曾今的挚爱 `W.`
 
 > 我们每个人都生活在各自的过去中，人们会用一分钟的时间去认识一个人，用一小时的时间去喜欢一个人，再用一天的时间去爱上一个人，到最后呢，却要用一辈子的时间去忘记一个人。
+> Each of us lives in our own past. People will take one minute to get to know someone, and one hour to get to know someone. It takes a day to like someone, another day to fall in love with someone, and in the end, it takes a lifetime to forget someone.
 
 # 项目介绍
 
